@@ -65,18 +65,22 @@ if __name__ == "__main__":
     print()
 
     start = timeit.default_timer()
-    node_with_name = db.getNodeWithProperty("name", "Meg Ryan")
+    node_with_name = db.getNodeWithProperty("born", 1961)
     stop = timeit.default_timer()
-    print('Time to get one node: ', stop - start)
-    print('Node: ', node_with_name[0])
+    print('Time to get nodes with year 1961 (NO INDEX): ', stop - start)
+    print('Nodes: ')
+    for res in node_with_name:
+        print(res[0])
 
     print()
 
     start = timeit.default_timer()
-    node_with_title = db.getNodeWithProperty("title", "Speed Racer")
+    node_with_title = db.getNodeWithProperty("released", 2003)
     stop = timeit.default_timer()
-    print('Time to get one node: ', stop - start)
-    print('Node: ', node_with_title[0])
+    print('Time to get nodes with year 2003 (NO INDEX): ', stop - start)
+    print('Nodes: ',)
+    for res in node_with_title:
+        print(res[0])
 
     print()
     print('--------------------------------------------------')
@@ -105,24 +109,32 @@ if __name__ == "__main__":
     print()
 
     db.createIndex('general', 'avl')
+    start = timeit.default_timer()
     for node in all_nodes:
         if list(node[0].labels)[0] == 'Person':
             db.mst_index['general'].insert(node[0].get('born', 0), node[0])
         elif list(node[0].labels)[0] == 'Movie':
             db.mst_index['general'].insert(node[0].get('released', 0), node[0])
-    
+    stop = timeit.default_timer()
+    print('Time to create AVL index: ', stop - start)
+
+    print()
+    print('--------------------------------------------------')
+    print()
     start = timeit.default_timer()
     nodes_with_year = db.mst_index['general'].find(1961)
     stop = timeit.default_timer()
-    print('Time to get nodes with year 1961: ', stop - start)
-    print('Nodes with year 1961: ', len(nodes_with_year.values))
+    print('Time to get nodes with year 1961 (AVL): ', stop - start)
+    print('Nodes with year 1961 (AVL): ', len(nodes_with_year.values))
     for res in nodes_with_year.values:
         print(res)
+
+    print()
 
     start = timeit.default_timer()
     nodes_with_year = db.mst_index['general'].find(2003)
     stop = timeit.default_timer()
-    print('Time to get nodes with year 2003: ', stop - start)
-    print('Nodes with year 2003: ', len(nodes_with_year.values))
+    print('Time to get nodes with year 2003 (AVL): ', stop - start)
+    print('Nodes with year 2003 (AVL): ', len(nodes_with_year.values))
     for res in nodes_with_year.values:
         print(res)
