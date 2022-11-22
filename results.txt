@@ -1,4 +1,4 @@
-Time to get all:  0.027347102004569024
+Time to get all:  0.02829357300652191
 All nodes:  171
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:0' labels=frozenset({'Movie'}) properties={'tagline': 'Welcome to the Real World', 'title': 'The Matrix', 'released': 1999}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:1' labels=frozenset({'Person'}) properties={'born': 1964, 'name': 'Keanu Reeves'}>
@@ -10,171 +10,10 @@ All nodes:  171
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:7' labels=frozenset({'Person'}) properties={'born': 1952, 'name': 'Joel Silver'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:8' labels=frozenset({'Person'}) properties={'born': 1978, 'name': 'Emil Eifrem'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:9' labels=frozenset({'Movie'}) properties={'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:10' labels=frozenset({'Movie'}) properties={'tagline': 'Everything that has a beginning has an end', 'title': 'The Matrix Revolutions', 'released': 2003}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:11' labels=frozenset({'Movie'}) properties={'tagline': 'Evil has its winning ways', 'title': "The Devil's Advocate", 'released': 1997}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:12' labels=frozenset({'Person'}) properties={'born': 1975, 'name': 'Charlize Theron'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:13' labels=frozenset({'Person'}) properties={'born': 1940, 'name': 'Al Pacino'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:14' labels=frozenset({'Person'}) properties={'born': 1944, 'name': 'Taylor Hackford'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:15' labels=frozenset({'Movie'}) properties={'tagline': "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.", 'title': 'A Few Good Men', 'released': 1992}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:16' labels=frozenset({'Person'}) properties={'born': 1962, 'name': 'Tom Cruise'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:17' labels=frozenset({'Person'}) properties={'born': 1937, 'name': 'Jack Nicholson'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:18' labels=frozenset({'Person'}) properties={'born': 1962, 'name': 'Demi Moore'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:19' labels=frozenset({'Person'}) properties={'born': 1958, 'name': 'Kevin Bacon'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:20' labels=frozenset({'Person'}) properties={'born': 1966, 'name': 'Kiefer Sutherland'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:21' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Noah Wyle'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:22' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Cuba Gooding Jr.'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:23' labels=frozenset({'Person'}) properties={'born': 1957, 'name': 'Kevin Pollak'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:24' labels=frozenset({'Person'}) properties={'born': 1943, 'name': 'J.T. Walsh'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:25' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'James Marshall'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:26' labels=frozenset({'Person'}) properties={'born': 1948, 'name': 'Christopher Guest'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:27' labels=frozenset({'Person'}) properties={'born': 1947, 'name': 'Rob Reiner'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:28' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Aaron Sorkin'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:29' labels=frozenset({'Movie'}) properties={'tagline': 'I feel the need, the need for speed.', 'title': 'Top Gun', 'released': 1986}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:30' labels=frozenset({'Person'}) properties={'born': 1957, 'name': 'Kelly McGillis'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:31' labels=frozenset({'Person'}) properties={'born': 1959, 'name': 'Val Kilmer'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:32' labels=frozenset({'Person'}) properties={'born': 1962, 'name': 'Anthony Edwards'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:33' labels=frozenset({'Person'}) properties={'born': 1933, 'name': 'Tom Skerritt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:34' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Meg Ryan'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:35' labels=frozenset({'Person'}) properties={'born': 1944, 'name': 'Tony Scott'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:36' labels=frozenset({'Person'}) properties={'born': 1941, 'name': 'Jim Cash'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:37' labels=frozenset({'Movie'}) properties={'tagline': 'The rest of his life begins now.', 'title': 'Jerry Maguire', 'released': 2000}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:38' labels=frozenset({'Person'}) properties={'born': 1969, 'name': 'Renee Zellweger'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:39' labels=frozenset({'Person'}) properties={'born': 1962, 'name': 'Kelly Preston'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:40' labels=frozenset({'Person'}) properties={'born': 1974, 'name': "Jerry O'Connell"}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:41' labels=frozenset({'Person'}) properties={'born': 1970, 'name': 'Jay Mohr'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:42' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Bonnie Hunt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:43' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Regina King'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:44' labels=frozenset({'Person'}) properties={'born': 1996, 'name': 'Jonathan Lipnicki'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:45' labels=frozenset({'Person'}) properties={'born': 1957, 'name': 'Cameron Crowe'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:46' labels=frozenset({'Movie'}) properties={'tagline': "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.", 'title': 'Stand By Me', 'released': 1986}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:47' labels=frozenset({'Person'}) properties={'born': 1970, 'name': 'River Phoenix'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:48' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Corey Feldman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:49' labels=frozenset({'Person'}) properties={'born': 1972, 'name': 'Wil Wheaton'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:50' labels=frozenset({'Person'}) properties={'born': 1966, 'name': 'John Cusack'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:51' labels=frozenset({'Person'}) properties={'born': 1942, 'name': 'Marshall Bell'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:52' labels=frozenset({'Movie'}) properties={'tagline': 'A comedy from the heart that goes for the throat.', 'title': 'As Good as It Gets', 'released': 1997}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:53' labels=frozenset({'Person'}) properties={'born': 1963, 'name': 'Helen Hunt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:54' labels=frozenset({'Person'}) properties={'born': 1963, 'name': 'Greg Kinnear'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:55' labels=frozenset({'Person'}) properties={'born': 1940, 'name': 'James L. Brooks'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:56' labels=frozenset({'Movie'}) properties={'tagline': 'After life there is more. The end is just the beginning.', 'title': 'What Dreams May Come', 'released': 1998}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:57' labels=frozenset({'Person'}) properties={'born': 1960, 'name': 'Annabella Sciorra'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:58' labels=frozenset({'Person'}) properties={'born': 1929, 'name': 'Max von Sydow'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:59' labels=frozenset({'Person'}) properties={'born': 1942, 'name': 'Werner Herzog'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:60' labels=frozenset({'Person'}) properties={'born': 1951, 'name': 'Robin Williams'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:61' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Vincent Ward'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:62' labels=frozenset({'Movie'}) properties={'tagline': 'First loves last. Forever.', 'title': 'Snow Falling on Cedars', 'released': 1999}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:63' labels=frozenset({'Person'}) properties={'born': 1970, 'name': 'Ethan Hawke'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:64' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Rick Yune'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:65' labels=frozenset({'Person'}) properties={'born': 1940, 'name': 'James Cromwell'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:66' labels=frozenset({'Person'}) properties={'born': 1953, 'name': 'Scott Hicks'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:67' labels=frozenset({'Movie'}) properties={'tagline': 'At odds in life... in love on-line.', 'title': "You've Got Mail", 'released': 1998}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:68' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Parker Posey'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:69' labels=frozenset({'Person'}) properties={'born': 1973, 'name': 'Dave Chappelle'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:70' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Steve Zahn'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:71' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Tom Hanks'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:72' labels=frozenset({'Person'}) properties={'born': 1941, 'name': 'Nora Ephron'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:73' labels=frozenset({'Movie'}) properties={'tagline': 'What if someone you never met, someone you never saw, someone you never knew was the only someone for you?', 'title': 'Sleepless in Seattle', 'released': 1993}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:74' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Rita Wilson'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:75' labels=frozenset({'Person'}) properties={'born': 1953, 'name': 'Bill Pullman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:76' labels=frozenset({'Person'}) properties={'born': 1949, 'name': 'Victor Garber'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:77' labels=frozenset({'Person'}) properties={'born': 1962, 'name': "Rosie O'Donnell"}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:78' labels=frozenset({'Movie'}) properties={'tagline': 'A story of love, lava and burning desire.', 'title': 'Joe Versus the Volcano', 'released': 1990}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:79' labels=frozenset({'Person'}) properties={'born': 1950, 'name': 'John Patrick Stanley'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:80' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Nathan Lane'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:81' labels=frozenset({'Movie'}) properties={'tagline': 'Can two friends sleep together and still love each other in the morning?', 'title': 'When Harry Met Sally', 'released': 1998}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:82' labels=frozenset({'Person'}) properties={'born': 1948, 'name': 'Billy Crystal'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:83' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Carrie Fisher'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:84' labels=frozenset({'Person'}) properties={'born': 1949, 'name': 'Bruno Kirby'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:85' labels=frozenset({'Movie'}) properties={'tagline': 'In every life there comes a time when that thing you dream becomes that thing you do', 'title': 'That Thing You Do', 'released': 1996}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:86' labels=frozenset({'Person'}) properties={'born': 1977, 'name': 'Liv Tyler'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:87' labels=frozenset({'Movie'}) properties={'tagline': 'Pain heals, Chicks dig scars... Glory lasts forever', 'title': 'The Replacements', 'released': 2000}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:88' labels=frozenset({'Person'}) properties={'born': 1970, 'name': 'Brooke Langton'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:89' labels=frozenset({'Person'}) properties={'born': 1930, 'name': 'Gene Hackman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:90' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Orlando Jones'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:91' labels=frozenset({'Person'}) properties={'born': 1950, 'name': 'Howard Deutch'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:92' labels=frozenset({'Movie'}) properties={'tagline': "Based on the extraordinary true story of one man's fight for freedom", 'title': 'RescueDawn', 'released': 2006}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:93' labels=frozenset({'Person'}) properties={'born': 1974, 'name': 'Christian Bale'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:94' labels=frozenset({'Person'}) properties={'born': 1954, 'name': 'Zach Grenier'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:95' labels=frozenset({'Movie'}) properties={'tagline': 'Come as you are', 'title': 'The Birdcage', 'released': 1996}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:96' labels=frozenset({'Person'}) properties={'born': 1931, 'name': 'Mike Nichols'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:97' labels=frozenset({'Movie'}) properties={'tagline': "It's a hell of a thing, killing a man", 'title': 'Unforgiven', 'released': 1992}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:98' labels=frozenset({'Person'}) properties={'born': 1930, 'name': 'Richard Harris'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:99' labels=frozenset({'Person'}) properties={'born': 1930, 'name': 'Clint Eastwood'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:100' labels=frozenset({'Movie'}) properties={'tagline': 'The hottest data on earth. In the coolest head in town', 'title': 'Johnny Mnemonic', 'released': 1995}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:101' labels=frozenset({'Person'}) properties={'born': 1947, 'name': 'Takeshi Kitano'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:102' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Dina Meyer'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:103' labels=frozenset({'Person'}) properties={'born': 1958, 'name': 'Ice-T'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:104' labels=frozenset({'Person'}) properties={'born': 1953, 'name': 'Robert Longo'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:105' labels=frozenset({'Movie'}) properties={'tagline': 'Everything is connected', 'title': 'Cloud Atlas', 'released': 2012}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:106' labels=frozenset({'Person'}) properties={'born': 1966, 'name': 'Halle Berry'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:107' labels=frozenset({'Person'}) properties={'born': 1949, 'name': 'Jim Broadbent'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:108' labels=frozenset({'Person'}) properties={'born': 1965, 'name': 'Tom Tykwer'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:109' labels=frozenset({'Person'}) properties={'born': 1969, 'name': 'David Mitchell'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:110' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Stefan Arndt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:111' labels=frozenset({'Movie'}) properties={'tagline': 'Break The Codes', 'title': 'The Da Vinci Code', 'released': 2006}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:112' labels=frozenset({'Person'}) properties={'born': 1939, 'name': 'Ian McKellen'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:113' labels=frozenset({'Person'}) properties={'born': 1976, 'name': 'Audrey Tautou'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:114' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Paul Bettany'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:115' labels=frozenset({'Person'}) properties={'born': 1954, 'name': 'Ron Howard'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:116' labels=frozenset({'Movie'}) properties={'tagline': 'Freedom! Forever!', 'title': 'V for Vendetta', 'released': 2006}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:117' labels=frozenset({'Person'}) properties={'born': 1981, 'name': 'Natalie Portman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:118' labels=frozenset({'Person'}) properties={'born': 1946, 'name': 'Stephen Rea'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:119' labels=frozenset({'Person'}) properties={'born': 1940, 'name': 'John Hurt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:120' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Ben Miles'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:121' labels=frozenset({'Movie'}) properties={'tagline': 'Speed has no limits', 'title': 'Speed Racer', 'released': 2008}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:122' labels=frozenset({'Person'}) properties={'born': 1985, 'name': 'Emile Hirsch'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:123' labels=frozenset({'Person'}) properties={'born': 1960, 'name': 'John Goodman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:124' labels=frozenset({'Person'}) properties={'born': 1946, 'name': 'Susan Sarandon'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:125' labels=frozenset({'Person'}) properties={'born': 1966, 'name': 'Matthew Fox'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:126' labels=frozenset({'Person'}) properties={'born': 1980, 'name': 'Christina Ricci'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:127' labels=frozenset({'Person'}) properties={'born': 1982, 'name': 'Rain'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:128' labels=frozenset({'Movie'}) properties={'tagline': 'Prepare to enter a secret world of assassins', 'title': 'Ninja Assassin', 'released': 2009}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:129' labels=frozenset({'Person'}) properties={'name': 'Naomie Harris'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:130' labels=frozenset({'Movie'}) properties={'tagline': "Walk a mile you'll never forget.", 'title': 'The Green Mile', 'released': 1999}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:131' labels=frozenset({'Person'}) properties={'born': 1957, 'name': 'Michael Clarke Duncan'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:132' labels=frozenset({'Person'}) properties={'born': 1953, 'name': 'David Morse'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:133' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Sam Rockwell'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:134' labels=frozenset({'Person'}) properties={'born': 1955, 'name': 'Gary Sinise'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:135' labels=frozenset({'Person'}) properties={'born': 1959, 'name': 'Patricia Clarkson'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:136' labels=frozenset({'Person'}) properties={'born': 1959, 'name': 'Frank Darabont'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:137' labels=frozenset({'Movie'}) properties={'tagline': '400 million people were waiting for the truth.', 'title': 'Frost/Nixon', 'released': 2008}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:138' labels=frozenset({'Person'}) properties={'born': 1938, 'name': 'Frank Langella'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:139' labels=frozenset({'Person'}) properties={'born': 1969, 'name': 'Michael Sheen'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:140' labels=frozenset({'Person'}) properties={'born': 1960, 'name': 'Oliver Platt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:141' labels=frozenset({'Movie'}) properties={'tagline': "He didn't want law. He wanted justice.", 'title': 'Hoffa', 'released': 1992}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:142' labels=frozenset({'Person'}) properties={'born': 1944, 'name': 'Danny DeVito'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:143' labels=frozenset({'Person'}) properties={'born': 1965, 'name': 'John C. Reilly'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:144' labels=frozenset({'Movie'}) properties={'tagline': 'Houston, we have a problem.', 'title': 'Apollo 13', 'released': 1995}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:145' labels=frozenset({'Person'}) properties={'born': 1950, 'name': 'Ed Harris'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:146' labels=frozenset({'Person'}) properties={'born': 1955, 'name': 'Bill Paxton'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:147' labels=frozenset({'Movie'}) properties={'tagline': "Don't Breathe. Don't Look Back.", 'title': 'Twister', 'released': 1996}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:148' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Philip Seymour Hoffman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:149' labels=frozenset({'Person'}) properties={'born': 1943, 'name': 'Jan de Bont'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:150' labels=frozenset({'Movie'}) properties={'tagline': 'At the edge of the world, his journey begins.', 'title': 'Cast Away', 'released': 2000}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:151' labels=frozenset({'Person'}) properties={'born': 1951, 'name': 'Robert Zemeckis'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:152' labels=frozenset({'Movie'}) properties={'tagline': "If he's crazy, what does that make you?", 'title': "One Flew Over the Cuckoo's Nest", 'released': 1975}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:153' labels=frozenset({'Person'}) properties={'born': 1932, 'name': 'Milos Forman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:154' labels=frozenset({'Movie'}) properties={'title': "Something's Gotta Give", 'released': 2003}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:155' labels=frozenset({'Person'}) properties={'born': 1946, 'name': 'Diane Keaton'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:156' labels=frozenset({'Person'}) properties={'born': 1949, 'name': 'Nancy Meyers'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:157' labels=frozenset({'Movie'}) properties={'tagline': "One robot's 200 year journey to become an ordinary man.", 'title': 'Bicentennial Man', 'released': 1999}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:158' labels=frozenset({'Person'}) properties={'born': 1958, 'name': 'Chris Columbus'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:159' labels=frozenset({'Movie'}) properties={'tagline': "A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire.", 'title': "Charlie Wilson's War", 'released': 2007}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:160' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Julia Roberts'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:161' labels=frozenset({'Movie'}) properties={'tagline': 'This Holiday Season... Believe', 'title': 'The Polar Express', 'released': 2004}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:162' labels=frozenset({'Movie'}) properties={'tagline': 'Once in a lifetime you get a chance to do something different.', 'title': 'A League of Their Own', 'released': 1992}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:163' labels=frozenset({'Person'}) properties={'born': 1954, 'name': 'Madonna'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:164' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Geena Davis'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:165' labels=frozenset({'Person'}) properties={'born': 1963, 'name': 'Lori Petty'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:166' labels=frozenset({'Person'}) properties={'born': 1943, 'name': 'Penny Marshall'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:167' labels=frozenset({'Person'}) properties={'name': 'Paul Blythe'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:168' labels=frozenset({'Person'}) properties={'name': 'Angela Scope'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:169' labels=frozenset({'Person'}) properties={'name': 'Jessica Thompson'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:170' labels=frozenset({'Person'}) properties={'name': 'James Thompson'}>
 
 --------------------------------------------------
 
-Time to get nodes with year 1961 (NO INDEX):  0.004945779015542939
+Time to get nodes with year 1961 (NO INDEX):  0.005270199995720759
 Nodes: 
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:3' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Laurence Fishburne'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:28' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Aaron Sorkin'}>
@@ -182,7 +21,7 @@ Nodes:
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:42' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Bonnie Hunt'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:110' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Stefan Arndt'}>
 
-Time to get nodes with year 2003 (NO INDEX):  0.003571733017452061
+Time to get nodes with year 2003 (NO INDEX):  0.004768232989590615
 Nodes: 
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:9' labels=frozenset({'Movie'}) properties={'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:10' labels=frozenset({'Movie'}) properties={'tagline': 'Everything that has a beginning has an end', 'title': 'The Matrix Revolutions', 'released': 2003}>
@@ -190,190 +29,29 @@ Nodes:
 
 --------------------------------------------------
 
-Time to get all nodes of an entity:  0.01547471500816755
+Time to get all nodes of an entity:  0.014185356005327776
 Person nodes:  133
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:1' labels=frozenset({'Person'}) properties={'born': 1964, 'name': 'Keanu Reeves'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:2' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Carrie-Anne Moss'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:3' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Laurence Fishburne'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:4' labels=frozenset({'Person'}) properties={'born': 1960, 'name': 'Hugo Weaving'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:5' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Lilly Wachowski'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:6' labels=frozenset({'Person'}) properties={'born': 1965, 'name': 'Lana Wachowski'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:7' labels=frozenset({'Person'}) properties={'born': 1952, 'name': 'Joel Silver'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:8' labels=frozenset({'Person'}) properties={'born': 1978, 'name': 'Emil Eifrem'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:12' labels=frozenset({'Person'}) properties={'born': 1975, 'name': 'Charlize Theron'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:13' labels=frozenset({'Person'}) properties={'born': 1940, 'name': 'Al Pacino'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:14' labels=frozenset({'Person'}) properties={'born': 1944, 'name': 'Taylor Hackford'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:16' labels=frozenset({'Person'}) properties={'born': 1962, 'name': 'Tom Cruise'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:17' labels=frozenset({'Person'}) properties={'born': 1937, 'name': 'Jack Nicholson'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:18' labels=frozenset({'Person'}) properties={'born': 1962, 'name': 'Demi Moore'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:19' labels=frozenset({'Person'}) properties={'born': 1958, 'name': 'Kevin Bacon'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:20' labels=frozenset({'Person'}) properties={'born': 1966, 'name': 'Kiefer Sutherland'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:21' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Noah Wyle'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:22' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Cuba Gooding Jr.'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:23' labels=frozenset({'Person'}) properties={'born': 1957, 'name': 'Kevin Pollak'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:24' labels=frozenset({'Person'}) properties={'born': 1943, 'name': 'J.T. Walsh'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:25' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'James Marshall'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:26' labels=frozenset({'Person'}) properties={'born': 1948, 'name': 'Christopher Guest'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:27' labels=frozenset({'Person'}) properties={'born': 1947, 'name': 'Rob Reiner'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:28' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Aaron Sorkin'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:30' labels=frozenset({'Person'}) properties={'born': 1957, 'name': 'Kelly McGillis'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:31' labels=frozenset({'Person'}) properties={'born': 1959, 'name': 'Val Kilmer'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:32' labels=frozenset({'Person'}) properties={'born': 1962, 'name': 'Anthony Edwards'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:33' labels=frozenset({'Person'}) properties={'born': 1933, 'name': 'Tom Skerritt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:34' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Meg Ryan'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:35' labels=frozenset({'Person'}) properties={'born': 1944, 'name': 'Tony Scott'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:36' labels=frozenset({'Person'}) properties={'born': 1941, 'name': 'Jim Cash'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:38' labels=frozenset({'Person'}) properties={'born': 1969, 'name': 'Renee Zellweger'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:39' labels=frozenset({'Person'}) properties={'born': 1962, 'name': 'Kelly Preston'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:40' labels=frozenset({'Person'}) properties={'born': 1974, 'name': "Jerry O'Connell"}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:41' labels=frozenset({'Person'}) properties={'born': 1970, 'name': 'Jay Mohr'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:42' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Bonnie Hunt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:43' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Regina King'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:44' labels=frozenset({'Person'}) properties={'born': 1996, 'name': 'Jonathan Lipnicki'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:45' labels=frozenset({'Person'}) properties={'born': 1957, 'name': 'Cameron Crowe'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:47' labels=frozenset({'Person'}) properties={'born': 1970, 'name': 'River Phoenix'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:48' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Corey Feldman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:49' labels=frozenset({'Person'}) properties={'born': 1972, 'name': 'Wil Wheaton'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:50' labels=frozenset({'Person'}) properties={'born': 1966, 'name': 'John Cusack'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:51' labels=frozenset({'Person'}) properties={'born': 1942, 'name': 'Marshall Bell'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:53' labels=frozenset({'Person'}) properties={'born': 1963, 'name': 'Helen Hunt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:54' labels=frozenset({'Person'}) properties={'born': 1963, 'name': 'Greg Kinnear'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:55' labels=frozenset({'Person'}) properties={'born': 1940, 'name': 'James L. Brooks'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:57' labels=frozenset({'Person'}) properties={'born': 1960, 'name': 'Annabella Sciorra'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:58' labels=frozenset({'Person'}) properties={'born': 1929, 'name': 'Max von Sydow'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:59' labels=frozenset({'Person'}) properties={'born': 1942, 'name': 'Werner Herzog'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:60' labels=frozenset({'Person'}) properties={'born': 1951, 'name': 'Robin Williams'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:61' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Vincent Ward'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:63' labels=frozenset({'Person'}) properties={'born': 1970, 'name': 'Ethan Hawke'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:64' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Rick Yune'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:65' labels=frozenset({'Person'}) properties={'born': 1940, 'name': 'James Cromwell'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:66' labels=frozenset({'Person'}) properties={'born': 1953, 'name': 'Scott Hicks'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:68' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Parker Posey'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:69' labels=frozenset({'Person'}) properties={'born': 1973, 'name': 'Dave Chappelle'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:70' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Steve Zahn'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:71' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Tom Hanks'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:72' labels=frozenset({'Person'}) properties={'born': 1941, 'name': 'Nora Ephron'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:74' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Rita Wilson'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:75' labels=frozenset({'Person'}) properties={'born': 1953, 'name': 'Bill Pullman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:76' labels=frozenset({'Person'}) properties={'born': 1949, 'name': 'Victor Garber'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:77' labels=frozenset({'Person'}) properties={'born': 1962, 'name': "Rosie O'Donnell"}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:79' labels=frozenset({'Person'}) properties={'born': 1950, 'name': 'John Patrick Stanley'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:80' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Nathan Lane'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:82' labels=frozenset({'Person'}) properties={'born': 1948, 'name': 'Billy Crystal'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:83' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Carrie Fisher'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:84' labels=frozenset({'Person'}) properties={'born': 1949, 'name': 'Bruno Kirby'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:86' labels=frozenset({'Person'}) properties={'born': 1977, 'name': 'Liv Tyler'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:88' labels=frozenset({'Person'}) properties={'born': 1970, 'name': 'Brooke Langton'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:89' labels=frozenset({'Person'}) properties={'born': 1930, 'name': 'Gene Hackman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:90' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Orlando Jones'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:91' labels=frozenset({'Person'}) properties={'born': 1950, 'name': 'Howard Deutch'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:93' labels=frozenset({'Person'}) properties={'born': 1974, 'name': 'Christian Bale'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:94' labels=frozenset({'Person'}) properties={'born': 1954, 'name': 'Zach Grenier'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:96' labels=frozenset({'Person'}) properties={'born': 1931, 'name': 'Mike Nichols'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:98' labels=frozenset({'Person'}) properties={'born': 1930, 'name': 'Richard Harris'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:99' labels=frozenset({'Person'}) properties={'born': 1930, 'name': 'Clint Eastwood'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:101' labels=frozenset({'Person'}) properties={'born': 1947, 'name': 'Takeshi Kitano'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:102' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Dina Meyer'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:103' labels=frozenset({'Person'}) properties={'born': 1958, 'name': 'Ice-T'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:104' labels=frozenset({'Person'}) properties={'born': 1953, 'name': 'Robert Longo'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:106' labels=frozenset({'Person'}) properties={'born': 1966, 'name': 'Halle Berry'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:107' labels=frozenset({'Person'}) properties={'born': 1949, 'name': 'Jim Broadbent'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:108' labels=frozenset({'Person'}) properties={'born': 1965, 'name': 'Tom Tykwer'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:109' labels=frozenset({'Person'}) properties={'born': 1969, 'name': 'David Mitchell'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:110' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Stefan Arndt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:112' labels=frozenset({'Person'}) properties={'born': 1939, 'name': 'Ian McKellen'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:113' labels=frozenset({'Person'}) properties={'born': 1976, 'name': 'Audrey Tautou'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:114' labels=frozenset({'Person'}) properties={'born': 1971, 'name': 'Paul Bettany'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:115' labels=frozenset({'Person'}) properties={'born': 1954, 'name': 'Ron Howard'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:117' labels=frozenset({'Person'}) properties={'born': 1981, 'name': 'Natalie Portman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:118' labels=frozenset({'Person'}) properties={'born': 1946, 'name': 'Stephen Rea'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:119' labels=frozenset({'Person'}) properties={'born': 1940, 'name': 'John Hurt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:120' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Ben Miles'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:122' labels=frozenset({'Person'}) properties={'born': 1985, 'name': 'Emile Hirsch'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:123' labels=frozenset({'Person'}) properties={'born': 1960, 'name': 'John Goodman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:124' labels=frozenset({'Person'}) properties={'born': 1946, 'name': 'Susan Sarandon'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:125' labels=frozenset({'Person'}) properties={'born': 1966, 'name': 'Matthew Fox'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:126' labels=frozenset({'Person'}) properties={'born': 1980, 'name': 'Christina Ricci'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:127' labels=frozenset({'Person'}) properties={'born': 1982, 'name': 'Rain'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:129' labels=frozenset({'Person'}) properties={'name': 'Naomie Harris'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:131' labels=frozenset({'Person'}) properties={'born': 1957, 'name': 'Michael Clarke Duncan'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:132' labels=frozenset({'Person'}) properties={'born': 1953, 'name': 'David Morse'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:133' labels=frozenset({'Person'}) properties={'born': 1968, 'name': 'Sam Rockwell'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:134' labels=frozenset({'Person'}) properties={'born': 1955, 'name': 'Gary Sinise'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:135' labels=frozenset({'Person'}) properties={'born': 1959, 'name': 'Patricia Clarkson'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:136' labels=frozenset({'Person'}) properties={'born': 1959, 'name': 'Frank Darabont'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:138' labels=frozenset({'Person'}) properties={'born': 1938, 'name': 'Frank Langella'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:139' labels=frozenset({'Person'}) properties={'born': 1969, 'name': 'Michael Sheen'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:140' labels=frozenset({'Person'}) properties={'born': 1960, 'name': 'Oliver Platt'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:142' labels=frozenset({'Person'}) properties={'born': 1944, 'name': 'Danny DeVito'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:143' labels=frozenset({'Person'}) properties={'born': 1965, 'name': 'John C. Reilly'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:145' labels=frozenset({'Person'}) properties={'born': 1950, 'name': 'Ed Harris'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:146' labels=frozenset({'Person'}) properties={'born': 1955, 'name': 'Bill Paxton'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:148' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Philip Seymour Hoffman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:149' labels=frozenset({'Person'}) properties={'born': 1943, 'name': 'Jan de Bont'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:151' labels=frozenset({'Person'}) properties={'born': 1951, 'name': 'Robert Zemeckis'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:153' labels=frozenset({'Person'}) properties={'born': 1932, 'name': 'Milos Forman'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:155' labels=frozenset({'Person'}) properties={'born': 1946, 'name': 'Diane Keaton'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:156' labels=frozenset({'Person'}) properties={'born': 1949, 'name': 'Nancy Meyers'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:158' labels=frozenset({'Person'}) properties={'born': 1958, 'name': 'Chris Columbus'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:160' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Julia Roberts'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:163' labels=frozenset({'Person'}) properties={'born': 1954, 'name': 'Madonna'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:164' labels=frozenset({'Person'}) properties={'born': 1956, 'name': 'Geena Davis'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:165' labels=frozenset({'Person'}) properties={'born': 1963, 'name': 'Lori Petty'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:166' labels=frozenset({'Person'}) properties={'born': 1943, 'name': 'Penny Marshall'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:167' labels=frozenset({'Person'}) properties={'name': 'Paul Blythe'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:168' labels=frozenset({'Person'}) properties={'name': 'Angela Scope'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:169' labels=frozenset({'Person'}) properties={'name': 'Jessica Thompson'}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:170' labels=frozenset({'Person'}) properties={'name': 'James Thompson'}>
 
-Time to get all nodes of an entity:  0.012406480993377045
+Time to get all nodes of an entity:  0.00789689301745966
 Movie nodes:  38
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:0' labels=frozenset({'Movie'}) properties={'tagline': 'Welcome to the Real World', 'title': 'The Matrix', 'released': 1999}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:9' labels=frozenset({'Movie'}) properties={'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:10' labels=frozenset({'Movie'}) properties={'tagline': 'Everything that has a beginning has an end', 'title': 'The Matrix Revolutions', 'released': 2003}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:11' labels=frozenset({'Movie'}) properties={'tagline': 'Evil has its winning ways', 'title': "The Devil's Advocate", 'released': 1997}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:15' labels=frozenset({'Movie'}) properties={'tagline': "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.", 'title': 'A Few Good Men', 'released': 1992}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:29' labels=frozenset({'Movie'}) properties={'tagline': 'I feel the need, the need for speed.', 'title': 'Top Gun', 'released': 1986}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:37' labels=frozenset({'Movie'}) properties={'tagline': 'The rest of his life begins now.', 'title': 'Jerry Maguire', 'released': 2000}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:46' labels=frozenset({'Movie'}) properties={'tagline': "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.", 'title': 'Stand By Me', 'released': 1986}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:52' labels=frozenset({'Movie'}) properties={'tagline': 'A comedy from the heart that goes for the throat.', 'title': 'As Good as It Gets', 'released': 1997}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:56' labels=frozenset({'Movie'}) properties={'tagline': 'After life there is more. The end is just the beginning.', 'title': 'What Dreams May Come', 'released': 1998}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:62' labels=frozenset({'Movie'}) properties={'tagline': 'First loves last. Forever.', 'title': 'Snow Falling on Cedars', 'released': 1999}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:67' labels=frozenset({'Movie'}) properties={'tagline': 'At odds in life... in love on-line.', 'title': "You've Got Mail", 'released': 1998}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:73' labels=frozenset({'Movie'}) properties={'tagline': 'What if someone you never met, someone you never saw, someone you never knew was the only someone for you?', 'title': 'Sleepless in Seattle', 'released': 1993}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:78' labels=frozenset({'Movie'}) properties={'tagline': 'A story of love, lava and burning desire.', 'title': 'Joe Versus the Volcano', 'released': 1990}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:81' labels=frozenset({'Movie'}) properties={'tagline': 'Can two friends sleep together and still love each other in the morning?', 'title': 'When Harry Met Sally', 'released': 1998}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:85' labels=frozenset({'Movie'}) properties={'tagline': 'In every life there comes a time when that thing you dream becomes that thing you do', 'title': 'That Thing You Do', 'released': 1996}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:87' labels=frozenset({'Movie'}) properties={'tagline': 'Pain heals, Chicks dig scars... Glory lasts forever', 'title': 'The Replacements', 'released': 2000}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:92' labels=frozenset({'Movie'}) properties={'tagline': "Based on the extraordinary true story of one man's fight for freedom", 'title': 'RescueDawn', 'released': 2006}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:95' labels=frozenset({'Movie'}) properties={'tagline': 'Come as you are', 'title': 'The Birdcage', 'released': 1996}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:97' labels=frozenset({'Movie'}) properties={'tagline': "It's a hell of a thing, killing a man", 'title': 'Unforgiven', 'released': 1992}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:100' labels=frozenset({'Movie'}) properties={'tagline': 'The hottest data on earth. In the coolest head in town', 'title': 'Johnny Mnemonic', 'released': 1995}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:105' labels=frozenset({'Movie'}) properties={'tagline': 'Everything is connected', 'title': 'Cloud Atlas', 'released': 2012}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:111' labels=frozenset({'Movie'}) properties={'tagline': 'Break The Codes', 'title': 'The Da Vinci Code', 'released': 2006}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:116' labels=frozenset({'Movie'}) properties={'tagline': 'Freedom! Forever!', 'title': 'V for Vendetta', 'released': 2006}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:121' labels=frozenset({'Movie'}) properties={'tagline': 'Speed has no limits', 'title': 'Speed Racer', 'released': 2008}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:128' labels=frozenset({'Movie'}) properties={'tagline': 'Prepare to enter a secret world of assassins', 'title': 'Ninja Assassin', 'released': 2009}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:130' labels=frozenset({'Movie'}) properties={'tagline': "Walk a mile you'll never forget.", 'title': 'The Green Mile', 'released': 1999}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:137' labels=frozenset({'Movie'}) properties={'tagline': '400 million people were waiting for the truth.', 'title': 'Frost/Nixon', 'released': 2008}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:141' labels=frozenset({'Movie'}) properties={'tagline': "He didn't want law. He wanted justice.", 'title': 'Hoffa', 'released': 1992}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:144' labels=frozenset({'Movie'}) properties={'tagline': 'Houston, we have a problem.', 'title': 'Apollo 13', 'released': 1995}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:147' labels=frozenset({'Movie'}) properties={'tagline': "Don't Breathe. Don't Look Back.", 'title': 'Twister', 'released': 1996}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:150' labels=frozenset({'Movie'}) properties={'tagline': 'At the edge of the world, his journey begins.', 'title': 'Cast Away', 'released': 2000}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:152' labels=frozenset({'Movie'}) properties={'tagline': "If he's crazy, what does that make you?", 'title': "One Flew Over the Cuckoo's Nest", 'released': 1975}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:154' labels=frozenset({'Movie'}) properties={'title': "Something's Gotta Give", 'released': 2003}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:157' labels=frozenset({'Movie'}) properties={'tagline': "One robot's 200 year journey to become an ordinary man.", 'title': 'Bicentennial Man', 'released': 1999}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:159' labels=frozenset({'Movie'}) properties={'tagline': "A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire.", 'title': "Charlie Wilson's War", 'released': 2007}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:161' labels=frozenset({'Movie'}) properties={'tagline': 'This Holiday Season... Believe', 'title': 'The Polar Express', 'released': 2004}>
-<Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:162' labels=frozenset({'Movie'}) properties={'tagline': 'Once in a lifetime you get a chance to do something different.', 'title': 'A League of Their Own', 'released': 1992}>
 
 --------------------------------------------------
 
-Time to create AVL index:  0.0009832759969867766
+Time to create AVL index:  0.0008215649868361652
 
 --------------------------------------------------
 
-Time to get nodes with year 1961 (AVL):  2.50799348577857e-06
+Time to get nodes with year 1961 (AVL):  1.7730053514242172e-06
 Nodes with year 1961 (AVL):  5
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:3' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Laurence Fishburne'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:28' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Aaron Sorkin'}>
@@ -381,7 +59,7 @@ Nodes with year 1961 (AVL):  5
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:42' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Bonnie Hunt'}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:110' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Stefan Arndt'}>
 
-Time to get nodes with year 2003 (AVL):  1.0430230759084225e-06
+Time to get nodes with year 2003 (AVL):  1.0259973350912333e-06
 Nodes with year 2003 (AVL):  3
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:9' labels=frozenset({'Movie'}) properties={'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}>
 <Node element_id='4:659faae5-ba70-4512-b01e-031c8afc19bc:10' labels=frozenset({'Movie'}) properties={'tagline': 'Everything that has a beginning has an end', 'title': 'The Matrix Revolutions', 'released': 2003}>

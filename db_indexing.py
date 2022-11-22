@@ -57,7 +57,7 @@ if __name__ == "__main__":
     stop = timeit.default_timer()
     print('Time to get all: ', stop - start)
     print('All nodes: ', len(all_nodes))
-    for res in all_nodes:
+    for res in all_nodes[:10]:
         print(res[0])
 
     print()
@@ -91,7 +91,7 @@ if __name__ == "__main__":
     stop = timeit.default_timer()
     print('Time to get all nodes of an entity: ', stop - start)
     print('Person nodes: ', len(person_nodes))
-    for res in person_nodes:
+    for res in person_nodes[:5]:
         print(res[0])
     
     print()
@@ -101,7 +101,7 @@ if __name__ == "__main__":
     stop = timeit.default_timer()
     print('Time to get all nodes of an entity: ', stop - start)
     print('Movie nodes: ', len(movie_nodes))
-    for res in movie_nodes:
+    for res in movie_nodes[:5]:
         print(res[0])
 
     print()
