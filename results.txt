@@ -1,7 +1,7 @@
 ----------------------
 AVL INDEX
 
-Time to get all:  0.027433798008132726
+Time to get all:  0.030642968995380215
 All nodes:  171
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:0' labels=frozenset({'Movie'}) properties={'tagline': 'Welcome to the Real World', 'title': 'The Matrix', 'released': 1999}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:1' labels=frozenset({'Person'}) properties={'born': 1964, 'name': 'Keanu Reeves'}>
@@ -16,7 +16,7 @@ All nodes:  171
 
 --------------------------------------------------
 
-Time to get nodes with year 1961 (NO INDEX):  0.005629717008559965
+Time to get nodes with year 1961 (NO INDEX):  0.006100219005020335
 Nodes: 
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:3' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Laurence Fishburne'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:28' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Aaron Sorkin'}>
@@ -24,7 +24,7 @@ Nodes:
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:42' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Bonnie Hunt'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:110' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Stefan Arndt'}>
 
-Time to get nodes with year 2003 (NO INDEX):  0.004561142006423324
+Time to get nodes with year 2003 (NO INDEX):  0.004428628002642654
 Nodes: 
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:9' labels=frozenset({'Movie'}) properties={'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:10' labels=frozenset({'Movie'}) properties={'tagline': 'Everything that has a beginning has an end', 'title': 'The Matrix Revolutions', 'released': 2003}>
@@ -32,7 +32,7 @@ Nodes:
 
 --------------------------------------------------
 
-Time to get all nodes of an entity:  0.01570284400077071
+Time to get all nodes of an entity:  0.014900539012160152
 Person nodes:  133
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:1' labels=frozenset({'Person'}) properties={'born': 1964, 'name': 'Keanu Reeves'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:2' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Carrie-Anne Moss'}>
@@ -40,7 +40,7 @@ Person nodes:  133
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:4' labels=frozenset({'Person'}) properties={'born': 1960, 'name': 'Hugo Weaving'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:5' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Lilly Wachowski'}>
 
-Time to get all nodes of an entity:  0.00808767399576027
+Time to get all nodes of an entity:  0.011270121991401538
 Movie nodes:  38
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:0' labels=frozenset({'Movie'}) properties={'tagline': 'Welcome to the Real World', 'title': 'The Matrix', 'released': 1999}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:9' labels=frozenset({'Movie'}) properties={'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}>
@@ -50,11 +50,11 @@ Movie nodes:  38
 
 --------------------------------------------------
 
-Time to create AVL index:  0.0008505909936502576
+Time to create AVL index:  0.0007819649908924475
 
 --------------------------------------------------
 
-Time to get nodes with year 1961 (AVL):  1.962995156645775e-06
+Time to get nodes with year 1961 (AVL):  1.69100530911237e-06
 Nodes with year 1961 (AVL):  5
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:3' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Laurence Fishburne'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:28' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Aaron Sorkin'}>
@@ -62,7 +62,7 @@ Nodes with year 1961 (AVL):  5
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:42' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Bonnie Hunt'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:110' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Stefan Arndt'}>
 
-Time to get nodes with year 2003 (AVL):  1.1219963198527694e-06
+Time to get nodes with year 2003 (AVL):  1.000997144728899e-06
 Nodes with year 2003 (AVL):  3
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:9' labels=frozenset({'Movie'}) properties={'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:10' labels=frozenset({'Movie'}) properties={'tagline': 'Everything that has a beginning has an end', 'title': 'The Matrix Revolutions', 'released': 2003}>
@@ -72,7 +72,7 @@ Nodes with year 2003 (AVL):  3
 
 FAISS INDEX
 
-Time to get all:  0.017398234995198436
+Time to get all:  0.01849058900552336
 All nodes:  171
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:0' labels=frozenset({'Movie'}) properties={'tagline': 'Welcome to the Real World', 'title': 'The Matrix', 'released': 1999}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:1' labels=frozenset({'Person'}) properties={'born': 1964, 'name': 'Keanu Reeves'}>
@@ -87,7 +87,7 @@ All nodes:  171
 
 --------------------------------------------------
 
-Time to get nodes with year 1961 (NO INDEX):  0.006013603997416794
+Time to get nodes with year 1961 (NO INDEX):  0.006012527999700978
 Nodes: 
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:3' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Laurence Fishburne'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:28' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Aaron Sorkin'}>
@@ -95,7 +95,7 @@ Nodes:
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:42' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Bonnie Hunt'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:110' labels=frozenset({'Person'}) properties={'born': 1961, 'name': 'Stefan Arndt'}>
 
-Time to get nodes with year 2003 (NO INDEX):  0.004409087996464223
+Time to get nodes with year 2003 (NO INDEX):  0.0044327039940981194
 Nodes: 
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:9' labels=frozenset({'Movie'}) properties={'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:10' labels=frozenset({'Movie'}) properties={'tagline': 'Everything that has a beginning has an end', 'title': 'The Matrix Revolutions', 'released': 2003}>
@@ -103,7 +103,7 @@ Nodes:
 
 --------------------------------------------------
 
-Time to get all nodes of an entity:  0.01425597199704498
+Time to get all nodes of an entity:  0.013704529003007337
 Person nodes:  133
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:1' labels=frozenset({'Person'}) properties={'born': 1964, 'name': 'Keanu Reeves'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:2' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Carrie-Anne Moss'}>
@@ -111,7 +111,7 @@ Person nodes:  133
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:4' labels=frozenset({'Person'}) properties={'born': 1960, 'name': 'Hugo Weaving'}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:5' labels=frozenset({'Person'}) properties={'born': 1967, 'name': 'Lilly Wachowski'}>
 
-Time to get all nodes of an entity:  0.007999784997082315
+Time to get all nodes of an entity:  0.008287525997729972
 Movie nodes:  38
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:0' labels=frozenset({'Movie'}) properties={'tagline': 'Welcome to the Real World', 'title': 'The Matrix', 'released': 1999}>
 <Node element_id='4:2bb2b38f-7765-4c33-a9e4-d5b0d6912707:9' labels=frozenset({'Movie'}) properties={'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}>
@@ -121,11 +121,11 @@ Movie nodes:  38
 
 --------------------------------------------------
 
-Time to create FAISS index:  1.1764008850004757
+Time to create FAISS index:  0.6898061219981173
 
 --------------------------------------------------
 
-Time to get nodes with year 1961 (FAISS):  0.006379721002303995
+Time to get nodes with year 1961 (FAISS):  0.01150684901222121
 Nodes with year 1961 (FAISS):  5
 [nan, nan, nan, 1974.0, "Jerry O'Connell"]
 [nan, nan, nan, 1940.0, 'Al Pacino']
@@ -133,7 +133,7 @@ Nodes with year 1961 (FAISS):  5
 [nan, nan, nan, 1962.0, "Rosie O'Donnell"]
 [nan, nan, nan, 1982.0, 'Rain']
 
-Time to get nodes with year 2003 (FAISS):  0.004357849000371061
+Time to get nodes with year 2003 (FAISS):  0.0040269400051329285
 Nodes with year 2003 (FAISS):  5
 ['400 million people were waiting for the truth.', 'Frost/Nixon', 2008.0, nan, nan]
 [nan, nan, nan, 1971.0, 'Corey Feldman']

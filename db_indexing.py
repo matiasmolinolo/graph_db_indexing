@@ -6,7 +6,7 @@ from indexes.faiss import FaissIndex
 class GraphDatabaseIndexing:
     def __init__(self, uri, user, password):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
-        self.mst_index = {}
+        self.avl_index = {}
         self.faiss_index = {}
 
     def getAll(self):
@@ -44,7 +44,7 @@ class GraphDatabaseIndexing:
 
     def createIndex(self, index_name, index_type):
         if index_type == "avl":
-            self.mst_index[index_name] = AVLTreeIndex(name=index_name)
+            self.avl_index[index_name] = AVLTreeIndex(name=index_name)
         if index_type == "faiss":
             self.faiss_index[index_name] = FaissIndex(name=index_name)
 
@@ -110,9 +110,9 @@ def avl_index_queries(db):
     start = timeit.default_timer()
     for node in all_nodes:
         if list(node[0].labels)[0] == 'Person':
-            db.mst_index['general'].insert(node[0].get('born', 0), node[0])
+            db.avl_index['general'].insert(node[0].get('born', 0), node[0])
         elif list(node[0].labels)[0] == 'Movie':
-            db.mst_index['general'].insert(node[0].get('released', 0), node[0])
+            db.avl_index['general'].insert(node[0].get('released', 0), node[0])
     stop = timeit.default_timer()
     print('Time to create AVL index: ', stop - start)
 
@@ -120,7 +120,7 @@ def avl_index_queries(db):
     print('--------------------------------------------------')
     print()
     start = timeit.default_timer()
-    nodes_with_year = db.mst_index['general'].find(1961)
+    nodes_with_year = db.avl_index['general'].find(1961)
     stop = timeit.default_timer()
     print('Time to get nodes with year 1961 (AVL): ', stop - start)
     print('Nodes with year 1961 (AVL): ', len(nodes_with_year.values))
@@ -130,7 +130,7 @@ def avl_index_queries(db):
     print()
 
     start = timeit.default_timer()
-    nodes_with_year = db.mst_index['general'].find(2003)
+    nodes_with_year = db.avl_index['general'].find(2003)
     stop = timeit.default_timer()
     print('Time to get nodes with year 2003 (AVL): ', stop - start)
     print('Nodes with year 2003 (AVL): ', len(nodes_with_year.values))
